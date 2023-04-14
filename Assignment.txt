@@ -1,0 +1,3 @@
+Assignments required are ->
+
+DOM manipulations
