@@ -1,3 +1,4 @@
 Assignments required are ->
 
 DOM manipulations
+Added a new file to the git
